@@ -56,12 +56,4 @@ public class HashTableImplementation<K, V> {
     public String toString() {
         return "MyLinkedListNodes{" + head + "} ";
     }
-
-    public Node<K, V> getTail() {
-        return tail;
-    }
-
-    public void setTail(Node<K, V> tail) {
-        this.tail = tail;
-    }
 }
