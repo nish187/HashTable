@@ -22,6 +22,9 @@ public class HashTable {
                 value = value + 1;
             hashImpl.add(word, value);
         }
+        // Remove "avoidable" from the hashtable
+        hashImpl.remove("avoidable");
+        // Display the hashtable
         System.out.println(hashImpl);
     }
 }
