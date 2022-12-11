@@ -7,7 +7,6 @@
     <list default="true" id="21f76e53-0805-4dbe-ace0-3d8c9d4412f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/DataStructure/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/HashTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataStructure/HashTableImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/HashTableImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
